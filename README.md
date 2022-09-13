@@ -1,4 +1,4 @@
-<img align="left" src="./assets/info.png">
+<img align="left" src="./info.png">
  <p><strong>Olá sou ROOT.XYZ | SANDERS | J105B 🇧🇷, desenvolvedor de Kernels</strong></p>
  
 <h1>Github Status</h1>
