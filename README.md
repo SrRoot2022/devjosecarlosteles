@@ -1,5 +1,5 @@
 <img align="left" src="./info.png">
- <p><strong>Olá sou ROOT.XYZ | SANDERS | J105B 🇧🇷, desenvolvedor de Kernels</strong></p>
+ <p><strong>Olá, seja bem-vindo(a) ao meu perfil 🇧🇷</strong></p>
  
 <h1>Github Status</h1>
  <a href="https://www.github.com/SrRoot2022">
