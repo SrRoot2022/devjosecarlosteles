@@ -8,7 +8,7 @@
 </div>
 <h1>Contatos</h1>
 <div>
- <a href="https://t.me/Root2022/"><img width="98px" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+ <a href="https://t.me/Root2022/"><img width="98px" src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
 <h1>Atividade</h1>
